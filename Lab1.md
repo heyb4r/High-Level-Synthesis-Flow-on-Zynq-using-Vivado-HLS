@@ -15,7 +15,7 @@ After completing this lab, you will be able to:
 
 ### Create a New Project
 #### Create a new project in Vivado HLS targeting PYNQ-Z1 or PYNQ-Z2 board
-1. Select **Start > Xilinx Design Tools > Vivado HLS 2018.2**
+1. Select **Start > Xilinx Design Tools > Vivado HLS 2019.2**
     <p align="center">
     <img src ="./images/lab1/Figure1.png">
     </p>
@@ -23,7 +23,7 @@ After completing this lab, you will be able to:
     <i>Getting Started view of Vivado-HLS</i>
     </p>
 2. In the Getting Started GUI, click on **Create New Project**. The **New Vivado HLS Project** wizard opens.
-3. Click the *Browse…* button of the Location field and browse to **c:\xup\hls\labs\lab1** and then click **OK**.
+3. Click the *Browse…* button of the Location field and browse to **c:\your directory\lab1** and then click **OK**.
 4. For Project Name, type **matrixmul.prj**
     <p align="center">
     <img src ="./images/lab1/Figure2.png">
